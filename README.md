@@ -1,4 +1,4 @@
-# LibGDX Slam the bird
+# LibGDX Super Jumper
 
 [Try the game in your Browser](https://yayo-arellano.github.io/libgdx_new_super_jumper/)
 
